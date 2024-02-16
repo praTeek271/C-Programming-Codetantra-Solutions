@@ -2,6 +2,7 @@
 This Repo consists of the following files :
 - .git
 - L1
+- README.md
 
 
 
@@ -13,4 +14,4 @@ This Repo consists of the following files :
 <br>
 
 
-- can be used for any repository
+- uses github
