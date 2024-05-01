@@ -1,4 +1,4 @@
-# C-Programming-Codetantra-Solutions
+# c-programming-codetantra-solutions
 This Repo consists of the following files :
 - .git
 - L1
@@ -16,4 +16,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses selenium
+- uses random module
