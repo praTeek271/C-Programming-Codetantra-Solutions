@@ -16,4 +16,4 @@ This Repo consists of the following files :
 <br>
 
 
-- welcome to this repo
+- uses github
